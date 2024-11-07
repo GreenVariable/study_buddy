@@ -9,5 +9,5 @@ Components Used:
  Arduino UNO, 
  Mini Breadboard, 
  Photoresistor, 
- 10K Ohm Resistor, 
+ 10K Ohm Resistor, and
  OLED Display  
